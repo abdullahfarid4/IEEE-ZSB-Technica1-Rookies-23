@@ -1,0 +1,6 @@
+print("Enter a sorted list: ")
+lst = list(map(int, input().split()))
+s = set(lst)
+lst = list(s)
+lst = sorted(lst)
+print(lst)
