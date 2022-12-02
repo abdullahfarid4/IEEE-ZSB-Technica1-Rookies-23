@@ -11,7 +11,3 @@ for i in range(len(lst)):
                 minny = abs(j - i)
 
 print(minny)
-
-
-
-
